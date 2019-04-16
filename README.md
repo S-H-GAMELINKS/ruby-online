@@ -1,22 +1,14 @@
-# ruby-online
+# Ruby-Online
 
-> Run your Ruby code in PWA
+Rubyのコードをスマホから試せるWebサービスです
 
-## Build Setup
+# License
 
-``` bash
-# install dependencies
-$ yarn install
+Ruby-Onlineのライセンスは[MIT](./LICENSE)です
 
-# serve with hot reload at localhost:3000
-$ yarn run dev
+Ruby のロゴ はまつもとゆきひろの著作物です。 (Copyright © 2006, Yukihiro Matsumoto)  
+Rubyのロゴのライセンスは [Creative Commons Attribution-ShareAlike 2.5 License](https://creativecommons.org/licenses/by-sa/2.5/) の条項のもと配布されます。
 
-# build for production and launch server
-$ yarn run build
-$ yarn start
+本サービスでは[Wandbox](https://wandbox.org/)のAPIを使用しています
+この場を借りて感謝申し上げます
 
-# generate static project
-$ yarn run generate
-```
-
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
